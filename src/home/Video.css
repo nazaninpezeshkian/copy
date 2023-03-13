@@ -1,0 +1,60 @@
+@font-face {
+  font-family: bold;
+  src: url(../assets/Samim-Bold-FD_p30download.com.woff);
+}
+@font-face {
+  font-family: text;
+  src: url(../assets/Samim-FD_p30download.com.woff);
+}
+#background-video{
+
+  object-fit: fill;
+  width: 103%;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  
+    
+  }
+.video{
+
+  width: 100%;
+
+  position: absolute;
+}
+.margintop{
+  margin-top: 230px;
+}
+ .videotext{
+  position: absolute;
+  font-family: bold;
+  color: white;
+  width: 20%;
+  font-size: 60px;
+  margin-right: 150px;
+
+ }
+ .backwidth{
+  margin-right: 220px;
+  width: 30%;
+  direction: rtl;
+  text-align: center;
+ }
+ .textback{
+
+  text-align: center;
+  margin-top: 270px;
+width: 12%;
+  font-family: text;
+  position: absolute;
+  background-color: rgb(67, 57, 82);
+  color: white;
+ }
+ .textback:hover{
+cursor: pointer;
+  font-family: bold;
+  position: absolute;
+  background-color: rgb(81, 68, 100);
+  color: white;
+ }

@@ -1,0 +1,58 @@
+.catflex{
+    margin-left: 60px;
+    margin-right: 50px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.content{
+    background-repeat: no-repeat;
+    background-size: 425px 420px;
+    border-radius: 10px;
+    width: 24%;
+height: 350px;
+    background-image: url(https://www.banimode.com/1052760/97104.jpg);
+}
+.content2{
+    background-repeat: no-repeat;
+    background-size:400px 350px;
+    border-radius: 10px;
+    width: 24%;
+height: 350px;
+    background-image: url(https://www.banimode.com/1012334-thickbox_default/94108.jpg);
+}
+.content3{
+    background-repeat: no-repeat;
+    background-size: 400px 350px;
+    border-radius: 10px;
+    width: 24%;
+height: 350px;
+    background-image: url(https://www.banimode.com/1063434-thickbox_default/98496.jpg);
+}
+.content4{
+    background-repeat: no-repeat;
+    background-size: 400px 350px;
+    border-radius: 10px;
+    width: 24%;
+height: 350px;
+    background-image: url(https://www.banimode.com/871321-thickbox_default/80593.jpg);
+}
+.piccontent{
+    width: 100%;
+    height: 100%;
+}
+.catbtn{
+    margin-top: 270px;
+    font-family: bold;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(26, 26, 26);
+    color: white;
+    width: 130px;
+    height: 50px;
+}
+.catbtn:hover{
+    cursor: pointer;
+    color: black;
+    background-color: rgb(187, 184, 184);
+}

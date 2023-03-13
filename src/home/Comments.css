@@ -1,0 +1,35 @@
+
+.frame1{
+
+    width:49%;
+ height: 150px;
+    background-color: rgb(238, 228, 228);
+    border-width:2px;
+    border-style: solid;
+    border-color: rgb(172, 130, 24);
+    border-radius: 5px;
+}
+.frame2{
+  
+        width:49%;
+     height: 150px;
+        background-color: rgb(238, 228, 228);
+        border-width:2px;
+        border-style: solid;
+        border-color: rgb(172, 130, 24);
+        border-radius: 5px;
+    }
+.bordernone{
+margin-left: 0px;
+margin-right: 0px;
+border: 10px;
+ height: 200px;
+
+}
+.commentflex{
+    margin-left: 0px;
+    margin-right: 0px;
+    display: flex;
+    justify-content: space-between;
+}
+

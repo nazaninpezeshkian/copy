@@ -1,0 +1,96 @@
+.guidetop{
+    margin-top: 70px;
+    font-family: bold;
+    font-size: 38px;
+
+}
+.marginguide{
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.topbox{
+
+   font-size: 30px;
+   font-family: bold;
+    margin-top: 20px;
+   
+    background-color: rgb(182, 180, 180);
+ 
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+}
+.down{
+
+    background-color:  rgb(230, 230, 230);
+
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+.topbox2{
+   
+    margin-top: 20px;
+
+    background-color: rgb(182, 180, 180);
+
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+}
+.down2{
+ 
+ 
+    background-color:  rgb(230, 230, 230);
+
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+.topbox3{
+    margin-top: 20px;
+  
+
+    background-color: rgb(182, 180, 180);
+ 
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+}
+.down3{
+    
+
+    background-color:  rgb(230, 230, 230);
+ 
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+.textflex{
+    display: flex;
+    justify-content: start;
+    margin-right: 20px;
+}
+.number{
+    border-radius: 50px;
+    background-color: white;
+    font-family: bold;
+    width: 65px;
+    height: 65px;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 15px;
+    color: rgb(153, 153, 153);
+}
+.steps{
+
+    font-family:bold;
+margin-right: 10px;
+    font-size: 36px;
+    text-align: center;
+    margin-top: 18px; 
+}
+.explain{
+font-family: bold;
+font-size: 16px;
+text-align: justify;
+text-justify: newspaper;
+margin-left: 50px;
+margin-right: 50px;
+}

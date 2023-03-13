@@ -1,0 +1,13 @@
+.sizeborder{
+    border-radius: 10px;
+}
+.sizeflex{
+    margin-left: 365px;
+    margin-right: 365px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.sizepics{
+    border-radius: 10px;
+}
