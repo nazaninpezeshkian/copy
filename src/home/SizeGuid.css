@@ -10,4 +10,11 @@
 }
 .sizepics{
     border-radius: 10px;
+    transition: 0.5s;
 }
+.sizepics:hover{
+    cursor: pointer;
+    opacity: 0.8;
+    transition: 0.5s;
+}
+
