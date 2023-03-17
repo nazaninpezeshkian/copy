@@ -5,6 +5,7 @@ import Norooz from "../home/Norooz";
 import SizeGuide from "../home/SizeGuide";
 import Style from "../home/Style";
 import Video from "../home/Video";
+import Mag from "../home/Mag";
 
 function Home(){
     return(<>
@@ -18,6 +19,7 @@ function Home(){
 
 <Guide />
 <Style />
+<Mag />
    </>)
 }
 export default Home;

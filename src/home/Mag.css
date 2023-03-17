@@ -1,0 +1,90 @@
+.magpic{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+.magdate{
+    font-family: text;
+    background-color: rgb(228, 228, 228);
+    border-radius: 5px;
+    width: 20%;
+    margin-top: 15px;
+    text-align: center;
+    height: 5.5%;
+    margin-left: 10px;
+}
+.magtext{
+    font-family: text;
+text-align: right;
+    color: rgb(46, 46, 46);
+
+
+}
+.magmainflex{
+    display: flex;
+    justify-content: space-between;
+}
+.magflex{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+}
+.magflex2{
+    display: flex;
+    justify-content: space-between;
+    font-family: text;
+    background-color: rgb(228, 228, 228);
+    border-radius: 5px;
+    width: 100%;
+    text-align: center;
+    height: 100%;
+    margin-left: 10px;
+}
+.magflex3{
+    display: flex;
+    justify-content: space-between;
+    font-family: text;
+    background-color: rgb(228, 228, 228);
+    border-radius: 5px;
+    width: 100%;
+    text-align: center;
+    height: 100%;
+
+}
+.magflex4{
+    display: flex;
+    justify-content: space-between;
+    font-family: text;
+
+    border-radius: 5px;
+    width: 100%;
+    text-align: center;
+    height: 100%;
+
+}
+.magicon{
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.magicon2{
+    width: 27px;
+    height: 27px;
+    margin-right: 10px;
+    
+}
+.flextext{
+    font-family: text;
+    white-space: nowrap;
+    margin-left: 5px;
+    margin-right: 10px;
+
+}
+.flextext2{
+    font-family: text;
+    white-space: nowrap;
+    margin-right: 5px;
+    margin-left: 10px;
+
+}
